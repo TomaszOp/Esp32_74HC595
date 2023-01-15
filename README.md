@@ -1,8 +1,8 @@
 # Esp32_74HC595
-ShiftRegister 74HC595 Arduino Esp32 Library
-tested arduino 2.0.4
-
-use:
+ShiftRegister 74HC595 Arduino Esp32 Library <br>
+tested arduino 2.0.4<br>
+<br>
+use:<br>
 
 Esp32_74HC595 shiftRegister;
 
